@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+}
+.portada{
+    align-items: center;
+    height: 260px;
+    width: 100%;
+    margin-top: 75px;
+}
+.foto{
+    margin: auto;
+    width: 260px;
+    height: 260px;
+    text-align: center;
+    color: rgb(206, 206, 75);
+
+}
+.perfil{
+    height: 200px;
+    width: 200px;
+    border-radius: 300px;
+}
+.introduccion{
+    padding-top: 100px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
