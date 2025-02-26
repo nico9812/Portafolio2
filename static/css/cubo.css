@@ -1,6 +1,6 @@
 body{
     margin: 0%;
-    background-color: rgb(159, 159, 159);
+    background-color: #252525;
     display: flex;
     min-height: 100vh;
 }
@@ -46,19 +46,19 @@ body{
     transform: translateZ(100px);
 }
 #two{
-    background: rgba(79, 79, 79, 0.5);
+    background: rgba(79, 79, 79, 0.15);
     transform: translateX(100px) rotateY(90deg);
 }
 #three{
-    background: rgba(79, 79, 79, 0.5);
+    background: rgba(79, 79, 79, 0.15);
     transform: translateX(-100px) rotateY(90deg);
 }
 #four{
-    background: rgba(255, 255, 255, 0.5);
+    background: rgba(255, 255, 255, 0.15);
     transform: translateY(100px) rotateX(90deg);
 }
 #five{
-    background: rgba(255, 255, 255, 0.5);
+    background: rgba(255, 255, 255, 0.15);
     transform: translateY(-100px) rotateX(90deg);
 }
 #six{
